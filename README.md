@@ -30,8 +30,8 @@ It allows users to convert currencies in real-time, view supported currency code
 1. Clone the repository:
 
 ```
-git clone https://github.com/garvit1226/currency-converter.git
-cd currency-converter
+git clone https://github.com/garvit1226/currency-converter-python.git
+cd currency-converter-python
 ```
 
 2. Install dependencies:
@@ -92,7 +92,7 @@ Converted amount: 8,345.67
 ## 📂 Project Structure
 
 ```
-currency-converter/
+currency-converter-python/
 │── main.py
 │── api.py
 │── history.txt
